@@ -1,0 +1,39 @@
+cff-version: 1.2.0
+title: "FDA AI/ML-Enabled Medical Device Authorizations Dataset (1995–2025)"
+message: "If you use this dataset, please cite the accompanying manuscript and this repository."
+type: dataset
+authors:
+  - family-names: Golshani
+    given-names: Pouyan
+    orcid: "https://orcid.org/0000-0002-2042-4906"
+    email: signal@gighz.com
+    affiliation: Interventional Radiology, Southern California, USA
+  - family-names: Joseph
+    given-names: Mary
+    orcid: "https://orcid.org/0009-0003-6342-4222"
+    affiliation: Department of Biochemistry, University of California, Riverside
+repository-code: "https://github.com/GigHz-com/fda-aiml-devices-dataset"
+url: "https://github.com/GigHz-com/fda-aiml-devices-dataset"
+date-released: 2026-05-21
+license: MIT
+keywords:
+  - FDA
+  - artificial intelligence
+  - machine learning
+  - medical devices
+  - regulatory science
+  - health policy
+  - radiology
+preferred-citation:
+  type: article
+  title: "Three Decades of FDA Authorizations of AI/ML-Enabled Medical Devices: Persistent Specialty Concentration and the Care-Delivery Gap (1995–2025)"
+  authors:
+    - family-names: Golshani
+      given-names: Pouyan
+      orcid: "https://orcid.org/0000-0002-2042-4906"
+    - family-names: Joseph
+      given-names: Mary
+      orcid: "https://orcid.org/0009-0003-6342-4222"
+  journal: "Cureus Journal of Medical Science"
+  year: 2026
+  doi: "10.64898/2026.05.08.26352766"
