@@ -1,5 +1,7 @@
 # FDA AI/ML-Enabled Medical Device Authorizations Dataset (1995–2025)
 
+[![DOI](https://zenodo.org/badge/1246157249.svg)](https://doi.org/10.5281/zenodo.20336151)
+
 Cumulative dataset of all U.S. Food and Drug Administration (FDA) marketing authorizations for artificial-intelligence and machine-learning (AI/ML)-enabled medical devices recorded between September 29, 1995 and December 30, 2025 (n = 1,430).
 
 This repository accompanies the manuscript:
